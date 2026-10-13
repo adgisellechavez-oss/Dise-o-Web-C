@@ -1,0 +1,4 @@
+name: taller-maquetacion
+recipe: lamp
+config:
+  webroot: .
